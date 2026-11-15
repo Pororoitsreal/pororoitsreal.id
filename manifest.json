@@ -2,7 +2,7 @@
   "name": "DompetKu - Catat Keuangan Pribadi",
   "short_name": "DompetKu",
   "description": "Aplikasi pencatat pemasukan dan pengeluaran harian pribadi",
-  "start_url": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
